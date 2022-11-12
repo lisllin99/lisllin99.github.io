@@ -423,8 +423,8 @@ ol {
 -----------------------*/
 
 .hero {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .hero__text span {
